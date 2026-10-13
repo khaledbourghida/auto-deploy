@@ -1,0 +1,6 @@
+"""
+GitHubAccountDTO
+GitHubRepoDTO
+GitHubRepoDetailsDTO
+GitHubActivityDTO
+"""
